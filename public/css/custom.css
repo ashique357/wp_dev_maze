@@ -1,0 +1,43 @@
+.breadcrumb-menu{
+  padding: 10px;
+  margin: auto;
+}
+
+.blog-content{
+  padding: 10px;
+  margin: auto;
+}
+
+.blog-article{
+  padding: 10px;
+  margin: auto;
+}
+.blog-header{
+  padding: 10px;
+  margin: auto;
+}
+.post-info .blog-post{
+  padding: 10px;
+  margin: auto;
+  font-weight:700;
+  font-style: italic;
+}
+
+.post-info .time-date{
+  font-weight: lighter;
+}
+.post-info .blog-post a{
+
+}
+.auto-fixed{
+  padding: 10px;
+}
+
+.blog-media{
+    padding: 10px;
+    margin: auto;
+}
+
+.media{
+  padding-top: 10px;
+}
